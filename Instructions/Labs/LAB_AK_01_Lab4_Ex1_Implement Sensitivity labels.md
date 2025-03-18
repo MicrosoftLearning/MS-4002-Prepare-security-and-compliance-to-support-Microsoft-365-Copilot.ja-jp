@@ -42,7 +42,7 @@ LON-CL1 VM に **Microsoft Purview Information Protection クライアント** �
 
 2. Edge ブラウザーでは、**Microsoft 365 管理センター**のタブがまだ開いているはずです。 そうでない場合は、新しいタブを開き、次の URL を入力します: **https://admin.microsoft.com**
 
-3. **Microsoft 365 管理センター**で、必要に応じて ** [すべて表示]を選択します**。 **管理センター** グループの下で **[コンプライアンス]** を選択します。 これで、Microsoft Purview ポータルが新しいタブで開きます。
+3. **Microsoft 365 管理センター**で、必要に応じて **[すべて表示]** を選択します。 **管理センター** グループの下で **[コンプライアンス]** を選択します。 これで、Microsoft Purview ポータルが新しいタブで開きます。
 
 4. 最初に、SharePoint と OneDrive に格納されている Office オンライン ファイルに対して秘密度ラベルを有効にします。 <br/>
 
