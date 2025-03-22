@@ -131,7 +131,7 @@ Holly Dickson は Adatum の Microsoft 365 管理者です。最近、Microsoft 
 
 この設定をオフにするには、Microsoft Intune 管理センターで Office アプリのポリシーを作成する必要があります。 作成したポリシーで、**[Kindle に送信をオフにする]** 設定をポリシーに追加し、この設定を有効にします。 ポリシーでこの設定を有効にすると、ポリシーの作成が完了すると **[Kindle に送信]** 機能がオフになります。 その時点で、ユーザーは Word 文書を Kindle ライブラリに送信できなくなります。
 
-**注:** この問題は、実際の Microsoft 365 展開で対処することを検討する必要があります。 この **[Kindle に送信]** 機能の詳細については、https://support.microsoft.com/en-us/office/send-to-kindle-a53d880d-9952-4bf1-abc5-6bce8db5a273 を参照してください。
+**注:** この問題は、実際の Microsoft 365 展開で対処することを検討する必要があります。 この **[Kindle に送信]** 機能の詳細については、https://support.microsoft.com/office/send-to-kindle-a53d880d-9952-4bf1-abc5-6bce8db5a273 を参照してください。
 
 1. LON-CL1 では、Edge ブラウザーで、**Holly Dickson** として Microsoft 365 にまだログインしているはずです。 
 
