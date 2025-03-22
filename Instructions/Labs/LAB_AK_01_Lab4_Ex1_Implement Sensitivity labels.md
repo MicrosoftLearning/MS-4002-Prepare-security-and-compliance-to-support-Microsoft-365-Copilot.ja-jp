@@ -13,7 +13,7 @@ Adatum でパイロット プロジェクトの一部として秘密度ラベル
 
     まだ、LON-CL1 に **adatum\administrator** アカウントとしてログインしているはずです。また、Edge ブラウザーで、**Holly Dickson** として Microsoft 365 にまだログインしているはずです。 
 
-2. **Microsoft Edge** で、新しいタブを開き、アドレス バーに次の URL を入力します (または、コピーして貼り付けます): **https://www.microsoft.com/en-us/download/confirmation.aspx?id=53018** <br/>
+2. **Microsoft Edge** で、新しいタブを開き、アドレス バーに次の URL を入力します (または、コピーして貼り付けます): **https://www.microsoft.com/download/details.aspx?id=53018** <br/>
 
     これで **Microsoft Purview 情報保護クライアント**のダウンロードが開始します。
 
@@ -386,4 +386,4 @@ LON-CL1 VM に **Microsoft Purview Information Protection クライアント** �
 ## ラボ 4 の終了
 
 
-# おめでとうございます。 これで、このコースの最後のラボが完了しました。
+# お疲れさまでした。 これで、このコースの最後のラボが完了しました。
