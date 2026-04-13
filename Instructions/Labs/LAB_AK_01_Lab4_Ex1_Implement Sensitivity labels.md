@@ -1,3 +1,17 @@
+---
+lab:
+  title: ラーニング パス 1 - ラボ 4 - 演習 1 - Microsoft Entra ID Protection を使用して秘密度ラベルを実装する
+  description: 前のタスクでは、Word ドキュメントを作成し、Project - Falcon 秘密度ラベルで保護しました。 このラベルにより、ドキュメントには透かしが挿入されています。 このタスクでは、作成したドキュメントを Joni Sherman と共有し、Joni には "表示専用" アクセス許可のみを付与します。 これで、構成したパラメーターに基づいてどのように Microsoft Purview Information Protectionによってドキュメントが保護されるかを確認できます。
+  duration: 15 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Microsoft Entra
+    - Microsoft Entra ID
+    - Microsoft Entra ID Protection
+    - Microsoft Purview
+---
+
 # ラーニング パス 1 - ラボ 4 - 演習 1 - Microsoft Entra ID Protection を使用して秘密度ラベルを実装する
 
 Adatum の新しい Microsoft 365 管理者、Holly Dickson としてのロールで、Microsoft 365 を仮想ラボ環境でデプロイしました。 Microsoft 365 パイロット プロジェクトを進める場合、次のステップでは Adatum で Microsoft Purview Information Protection を使用して秘密度ラベルを実装します。 このラボでは、ラベルを作成して発行し、発行されたラベルをテストします。 ただし、その際、このラボで作成するラベルはテストしません。 別のラベルをテストします。
